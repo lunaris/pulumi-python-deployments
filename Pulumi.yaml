@@ -1,0 +1,6 @@
+name: wjones-python-deployments
+description: Python
+runtime:
+  name: python
+  options:
+    virtualenv: .venv
